@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setting-up-atlas/create-your-first-datasets",
+  "id": "setting-up-atlas/create-your-first-datasets",
+  "title": "2. 加载样例数据到 MyCluster",
+  "description": "与 MongoDB 集群进行交互可以通过多种方式完成，包括  以下几种方式:",
+  "source": "@site/docs/setting-up-atlas/create-your-first-datasets.md",
+  "sourceDirName": "setting-up-atlas",
+  "slug": "/setting-up-atlas/create-your-first-datasets",
+  "permalink": "/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setting-up-atlas/create-your-first-datasets.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. 开始使用 MongoDB Atlas",
+    "permalink": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas"
+  },
+  "next": {
+    "title": "练习B: 访问您的Atlas集群",
+    "permalink": "/atlas-workshop/docs/category/练习b-访问您的atlas集群"
+  }
+}

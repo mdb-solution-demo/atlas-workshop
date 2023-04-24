@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setting-up-atlas/get-started-atlas",
+  "id": "setting-up-atlas/get-started-atlas",
+  "title": "1. 开始使用 MongoDB Atlas",
+  "description": "MongoDB Atlas是一个开发者数据平台，集成了一个多云数据库和一组多样化的数据服务。Atlas简化了数据库部署和管理，同时支持现代数据驱动的应用程序开发。",
+  "source": "@site/docs/setting-up-atlas/get-started-atlas.md",
+  "sourceDirName": "setting-up-atlas",
+  "slug": "/setting-up-atlas/get-started-atlas",
+  "permalink": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setting-up-atlas/get-started-atlas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "练习A: 开始使用Atlas",
+    "permalink": "/atlas-workshop/docs/category/练习a-开始使用atlas"
+  },
+  "next": {
+    "title": "2. 加载样例数据到 MyCluster",
+    "permalink": "/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets"
+  }
+}

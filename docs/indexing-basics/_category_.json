@@ -1,0 +1,8 @@
+{
+  "label": "练习C: 索引与执行计划",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "20分钟的练习来分析查询并构建最佳索引。"
+  }
+}

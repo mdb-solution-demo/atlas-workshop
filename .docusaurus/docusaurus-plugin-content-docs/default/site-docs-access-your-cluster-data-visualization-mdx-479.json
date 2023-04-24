@@ -1,0 +1,27 @@
+{
+  "unversionedId": "access-your-cluster/data-visualization",
+  "id": "access-your-cluster/data-visualization",
+  "title": "2. 数据可视化",
+  "description": "MongoDB Charts是创建MongoDB数据可视化的最佳方式。连接到任何MongoDB实例作为数据源，创建图表和图形，将它们嵌入到您的应用程序或构建实时仪表板用于共享和协作。",
+  "source": "@site/docs/access-your-cluster/data-visualization.mdx",
+  "sourceDirName": "access-your-cluster",
+  "slug": "/access-your-cluster/data-visualization",
+  "permalink": "/atlas-workshop/docs/access-your-cluster/data-visualization",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/access-your-cluster/data-visualization.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. 访问您的集群",
+    "permalink": "/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster"
+  },
+  "next": {
+    "title": "练习C: 索引与执行计划",
+    "permalink": "/atlas-workshop/docs/category/练习c-索引与执行计划"
+  }
+}

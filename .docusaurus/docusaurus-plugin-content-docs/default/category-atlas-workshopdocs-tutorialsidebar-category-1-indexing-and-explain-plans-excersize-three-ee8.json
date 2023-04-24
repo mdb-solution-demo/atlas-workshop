@@ -1,0 +1,16 @@
+{
+  "title": "1Indexing and Explain Plans - Excersize Three",
+  "description": "20分钟的练习来分析查询并构建最佳索引。",
+  "slug": "/category/1indexing-and-explain-plans---excersize-three",
+  "permalink": "/atlas-workshop/docs/category/1indexing-and-explain-plans---excersize-three",
+  "navigation": {
+    "previous": {
+      "title": "1.访问您的集群",
+      "permalink": "/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster"
+    },
+    "next": {
+      "title": "1.索引的执行计划",
+      "permalink": "/atlas-workshop/docs/indexing-basics/explain-plans"
+    }
+  }
+}

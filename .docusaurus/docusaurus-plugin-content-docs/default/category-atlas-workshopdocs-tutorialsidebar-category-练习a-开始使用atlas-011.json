@@ -1,0 +1,16 @@
+{
+  "title": "练习A: 开始使用Atlas",
+  "description": "预计10分钟完成Atlas初始化和集群部署",
+  "slug": "/category/练习a-开始使用atlas",
+  "permalink": "/atlas-workshop/docs/category/练习a-开始使用atlas",
+  "navigation": {
+    "previous": {
+      "title": "Workshop 整体介绍",
+      "permalink": "/atlas-workshop/docs/intro"
+    },
+    "next": {
+      "title": "1. 开始使用 MongoDB Atlas",
+      "permalink": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas"
+    }
+  }
+}

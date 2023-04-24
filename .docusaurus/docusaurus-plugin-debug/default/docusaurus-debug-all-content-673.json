@@ -1,0 +1,286 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/atlas-workshop/docs",
+          "tagsPath": "/atlas-workshop/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/zh-Hans/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/binzhou/code/workshops/atlas-workshop-devax/sidebars.js",
+          "contentPath": "/Users/binzhou/code/workshops/atlas-workshop-devax/docs",
+          "contentPathLocalized": "/Users/binzhou/code/workshops/atlas-workshop-devax/i18n/zh-Hans/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "access-your-cluster/access-the-atlas-cluster",
+              "id": "access-your-cluster/access-the-atlas-cluster",
+              "title": "1. 访问您的集群",
+              "description": "数据浏览器是默认启用的，可通过集群视图上的Collections选项卡访问。",
+              "source": "@site/docs/access-your-cluster/access-the-atlas-cluster.md",
+              "sourceDirName": "access-your-cluster",
+              "slug": "/access-your-cluster/access-the-atlas-cluster",
+              "permalink": "/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/access-your-cluster/access-the-atlas-cluster.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "练习B: 访问您的Atlas集群",
+                "permalink": "/atlas-workshop/docs/category/练习b-访问您的atlas集群"
+              },
+              "next": {
+                "title": "练习C: 索引与执行计划",
+                "permalink": "/atlas-workshop/docs/category/练习c-索引与执行计划"
+              }
+            },
+            {
+              "unversionedId": "indexing-basics/explain-plans",
+              "id": "indexing-basics/explain-plans",
+              "title": "1. 索引的执行计划",
+              "description": "当用Compass在sample_mflix数据库上打开并设置为movies集合时，让我们运行一个查询来分析它的执行计划:",
+              "source": "@site/docs/indexing-basics/explain-plans.md",
+              "sourceDirName": "indexing-basics",
+              "slug": "/indexing-basics/explain-plans",
+              "permalink": "/atlas-workshop/docs/indexing-basics/explain-plans",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/indexing-basics/explain-plans.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "练习C: 索引与执行计划",
+                "permalink": "/atlas-workshop/docs/category/练习c-索引与执行计划"
+              },
+              "next": {
+                "title": "2. 索引基础知识",
+                "permalink": "/atlas-workshop/docs/indexing-basics/"
+              }
+            },
+            {
+              "unversionedId": "indexing-basics/indexing-basics",
+              "id": "indexing-basics/indexing-basics",
+              "title": "2. 索引基础知识",
+              "description": "在任何数据库中，索引都支持高效执行查询。如果没有索引，数据库必须扫描集合或表中的每个文档，以选择与查询语句匹配的文档。如果查询存在合适的索引，则数据库可以使用索引来限制必须检查的文档数量。",
+              "source": "@site/docs/indexing-basics/indexing-basics.md",
+              "sourceDirName": "indexing-basics",
+              "slug": "/indexing-basics/",
+              "permalink": "/atlas-workshop/docs/indexing-basics/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/indexing-basics/indexing-basics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. 索引的执行计划",
+                "permalink": "/atlas-workshop/docs/indexing-basics/explain-plans"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Workshop 整体介绍",
+              "description": "欢迎参加 Atlas Workshop for AWS DevAx Day.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/atlas-workshop/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "练习A: 开始使用Atlas",
+                "permalink": "/atlas-workshop/docs/category/练习a-开始使用atlas"
+              }
+            },
+            {
+              "unversionedId": "setting-up-atlas/create-your-first-datasets",
+              "id": "setting-up-atlas/create-your-first-datasets",
+              "title": "2. 加载样例数据到 MyCluster",
+              "description": "与 MongoDB 集群进行交互可以通过多种方式完成，包括  以下几种方式:",
+              "source": "@site/docs/setting-up-atlas/create-your-first-datasets.md",
+              "sourceDirName": "setting-up-atlas",
+              "slug": "/setting-up-atlas/create-your-first-datasets",
+              "permalink": "/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setting-up-atlas/create-your-first-datasets.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. 开始使用 MongoDB Atlas",
+                "permalink": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas"
+              },
+              "next": {
+                "title": "练习B: 访问您的Atlas集群",
+                "permalink": "/atlas-workshop/docs/category/练习b-访问您的atlas集群"
+              }
+            },
+            {
+              "unversionedId": "setting-up-atlas/get-started-atlas",
+              "id": "setting-up-atlas/get-started-atlas",
+              "title": "1. 开始使用 MongoDB Atlas",
+              "description": "MongoDB Atlas是一个开发者数据平台，集成了一个多云数据库和一组多样化的数据服务。Atlas简化了数据库部署和管理，同时支持现代数据驱动的应用程序开发。",
+              "source": "@site/docs/setting-up-atlas/get-started-atlas.md",
+              "sourceDirName": "setting-up-atlas",
+              "slug": "/setting-up-atlas/get-started-atlas",
+              "permalink": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setting-up-atlas/get-started-atlas.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "练习A: 开始使用Atlas",
+                "permalink": "/atlas-workshop/docs/category/练习a-开始使用atlas"
+              },
+              "next": {
+                "title": "2. 加载样例数据到 MyCluster",
+                "permalink": "/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "练习A: 开始使用Atlas",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "setting-up-atlas/get-started-atlas"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "setting-up-atlas/create-your-first-datasets"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "预计10分钟完成Atlas初始化和集群部署",
+                  "slug": "/category/练习a-开始使用atlas",
+                  "permalink": "/atlas-workshop/docs/category/练习a-开始使用atlas"
+                }
+              },
+              {
+                "type": "category",
+                "label": "练习B: 访问您的Atlas集群",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "access-your-cluster/access-the-atlas-cluster"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "10分钟的摘录访问和了解您的集群访问点。本节重点介绍` Data Explorer `、` Compass `和` MongoDB Shell `等选项",
+                  "slug": "/category/练习b-访问您的atlas集群",
+                  "permalink": "/atlas-workshop/docs/category/练习b-访问您的atlas集群"
+                }
+              },
+              {
+                "type": "category",
+                "label": "练习C: 索引与执行计划",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "indexing-basics/explain-plans"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "indexing-basics/indexing-basics"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "20分钟的练习来分析查询并构建最佳索引。",
+                  "slug": "/category/练习c-索引与执行计划",
+                  "permalink": "/atlas-workshop/docs/category/练习c-索引与执行计划"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/atlas-workshop/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/atlas-workshop/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/atlas-workshop/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-lunr-search": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

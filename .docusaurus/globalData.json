@@ -1,0 +1,81 @@
+{
+  "docusaurus-lunr-search": {
+    "default": {
+      "fileNames": {
+        "searchDoc": "search-doc-1681549608343.json",
+        "lunrIndex": "lunr-index-1681549608343.json"
+      }
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/atlas-workshop/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/atlas-workshop/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "access-your-cluster/access-the-atlas-cluster",
+              "path": "/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "indexing-basics/explain-plans",
+              "path": "/atlas-workshop/docs/indexing-basics/explain-plans",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "indexing-basics/indexing-basics",
+              "path": "/atlas-workshop/docs/indexing-basics/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/atlas-workshop/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setting-up-atlas/create-your-first-datasets",
+              "path": "/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setting-up-atlas/get-started-atlas",
+              "path": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/练习a-开始使用atlas",
+              "path": "/atlas-workshop/docs/category/练习a-开始使用atlas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/练习b-访问您的atlas集群",
+              "path": "/atlas-workshop/docs/category/练习b-访问您的atlas集群",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/练习c-索引与执行计划",
+              "path": "/atlas-workshop/docs/category/练习c-索引与执行计划",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/atlas-workshop/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

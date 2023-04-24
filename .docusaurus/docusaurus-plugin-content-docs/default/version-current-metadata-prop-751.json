@@ -1,0 +1,115 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Workshop 整体介绍",
+        "href": "/atlas-workshop/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "练习A: 开始使用Atlas",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. 开始使用 MongoDB Atlas",
+            "href": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas",
+            "docId": "setting-up-atlas/get-started-atlas"
+          },
+          {
+            "type": "link",
+            "label": "2. 加载样例数据到 MyCluster",
+            "href": "/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets",
+            "docId": "setting-up-atlas/create-your-first-datasets"
+          }
+        ],
+        "href": "/atlas-workshop/docs/category/练习a-开始使用atlas"
+      },
+      {
+        "type": "category",
+        "label": "练习B: 访问您的Atlas集群",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. 访问您的集群",
+            "href": "/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster",
+            "docId": "access-your-cluster/access-the-atlas-cluster"
+          }
+        ],
+        "href": "/atlas-workshop/docs/category/练习b-访问您的atlas集群"
+      },
+      {
+        "type": "category",
+        "label": "练习C: 索引与执行计划",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. 索引的执行计划",
+            "href": "/atlas-workshop/docs/indexing-basics/explain-plans",
+            "docId": "indexing-basics/explain-plans"
+          },
+          {
+            "type": "link",
+            "label": "2. 索引基础知识",
+            "href": "/atlas-workshop/docs/indexing-basics/",
+            "docId": "indexing-basics/indexing-basics"
+          }
+        ],
+        "href": "/atlas-workshop/docs/category/练习c-索引与执行计划"
+      }
+    ]
+  },
+  "docs": {
+    "access-your-cluster/access-the-atlas-cluster": {
+      "id": "access-your-cluster/access-the-atlas-cluster",
+      "title": "1. 访问您的集群",
+      "description": "数据浏览器是默认启用的，可通过集群视图上的Collections选项卡访问。",
+      "sidebar": "tutorialSidebar"
+    },
+    "indexing-basics/explain-plans": {
+      "id": "indexing-basics/explain-plans",
+      "title": "1. 索引的执行计划",
+      "description": "当用Compass在sample_mflix数据库上打开并设置为movies集合时，让我们运行一个查询来分析它的执行计划:",
+      "sidebar": "tutorialSidebar"
+    },
+    "indexing-basics/indexing-basics": {
+      "id": "indexing-basics/indexing-basics",
+      "title": "2. 索引基础知识",
+      "description": "在任何数据库中，索引都支持高效执行查询。如果没有索引，数据库必须扫描集合或表中的每个文档，以选择与查询语句匹配的文档。如果查询存在合适的索引，则数据库可以使用索引来限制必须检查的文档数量。",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Workshop 整体介绍",
+      "description": "欢迎参加 Atlas Workshop for AWS DevAx Day.",
+      "sidebar": "tutorialSidebar"
+    },
+    "setting-up-atlas/create-your-first-datasets": {
+      "id": "setting-up-atlas/create-your-first-datasets",
+      "title": "2. 加载样例数据到 MyCluster",
+      "description": "与 MongoDB 集群进行交互可以通过多种方式完成，包括  以下几种方式:",
+      "sidebar": "tutorialSidebar"
+    },
+    "setting-up-atlas/get-started-atlas": {
+      "id": "setting-up-atlas/get-started-atlas",
+      "title": "1. 开始使用 MongoDB Atlas",
+      "description": "MongoDB Atlas是一个开发者数据平台，集成了一个多云数据库和一组多样化的数据服务。Atlas简化了数据库部署和管理，同时支持现代数据驱动的应用程序开发。",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "练习B: 访问您的Atlas集群",
+  "description": "10分钟的摘录访问和了解您的集群访问点。本节重点介绍` Data Explorer `、` Compass `和` MongoDB Shell `等选项",
+  "slug": "/category/练习b-访问您的atlas集群",
+  "permalink": "/atlas-workshop/en/docs/category/练习b-访问您的atlas集群",
+  "navigation": {
+    "previous": {
+      "title": "2. 加载样例数据到 MyCluster",
+      "permalink": "/atlas-workshop/en/docs/setting-up-atlas/create-your-first-datasets"
+    },
+    "next": {
+      "title": "1. 访问您的集群",
+      "permalink": "/atlas-workshop/en/docs/access-your-cluster/access-the-atlas-cluster"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "开始使用Atlas - 练习一",
+  "description": "10 min setup of the Atlas initial project and cluster.",
+  "slug": "/category/开始使用atlas---练习一",
+  "permalink": "/atlas-workshop/docs/category/开始使用atlas---练习一",
+  "navigation": {
+    "previous": {
+      "title": "Workshop Intro",
+      "permalink": "/atlas-workshop/docs/intro"
+    },
+    "next": {
+      "title": "开始使用 MongoDB Atlas",
+      "permalink": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas"
+    }
+  }
+}

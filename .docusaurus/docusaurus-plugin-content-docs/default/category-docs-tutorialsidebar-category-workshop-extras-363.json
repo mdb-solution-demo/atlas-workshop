@@ -1,0 +1,16 @@
+{
+  "title": "Workshop - Extras",
+  "description": "40min - Build a simple web app with the MERN stack and Atlas using Codespaces on github.com",
+  "slug": "/category/workshop---extras",
+  "permalink": "/docs/category/workshop---extras",
+  "navigation": {
+    "previous": {
+      "title": "Indexing Basics",
+      "permalink": "/docs/indexing-basics/"
+    },
+    "next": {
+      "title": "Build an application with Atlas",
+      "permalink": "/docs/tutorial-extras/build-mern-application"
+    }
+  }
+}

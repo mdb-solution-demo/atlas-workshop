@@ -1,0 +1,27 @@
+{
+  "unversionedId": "access-your-cluster/access-the-atlas-cluster",
+  "id": "access-your-cluster/access-the-atlas-cluster",
+  "title": "1. 访问您的集群",
+  "description": "数据浏览器是默认启用的，可通过集群视图上的Collections选项卡访问。",
+  "source": "@site/docs/access-your-cluster/access-the-atlas-cluster.md",
+  "sourceDirName": "access-your-cluster",
+  "slug": "/access-your-cluster/access-the-atlas-cluster",
+  "permalink": "/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/access-your-cluster/access-the-atlas-cluster.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "练习B: 访问您的Atlas集群",
+    "permalink": "/atlas-workshop/docs/category/练习b-访问您的atlas集群"
+  },
+  "next": {
+    "title": "练习C: 索引与执行计划",
+    "permalink": "/atlas-workshop/docs/category/练习c-索引与执行计划"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Get11 started with Atlas - Excersize One",
+  "description": "10 min setup of the Atlas initial project and cluster.",
+  "slug": "/category/get-started-with-atlas---excersize-one",
+  "permalink": "/docs/category/get-started-with-atlas---excersize-one",
+  "navigation": {
+    "previous": {
+      "title": "Workshop Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Get Started with MongoDB Atlas",
+      "permalink": "/docs/setting-up-atlas/get-started-atlas"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "练习B: 访问您的Atlas集群",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "10分钟的摘录访问和了解您的集群访问点。本节重点介绍` Data Explorer `、` Compass `和` MongoDB Shell `等选项"
+  }
+}

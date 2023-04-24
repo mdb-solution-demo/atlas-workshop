@@ -1,0 +1,16 @@
+{
+  "title": "Get1 started with Atlas - Excersize One",
+  "description": "预计10分钟完成Atlas初始化和集群部署",
+  "slug": "/category/get1-started-with-atlas---excersize-one",
+  "permalink": "/atlas-workshop/docs/category/get1-started-with-atlas---excersize-one",
+  "navigation": {
+    "previous": {
+      "title": "Workshop Intro",
+      "permalink": "/atlas-workshop/docs/intro"
+    },
+    "next": {
+      "title": "开始使用 MongoDB Atlas",
+      "permalink": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas"
+    }
+  }
+}
