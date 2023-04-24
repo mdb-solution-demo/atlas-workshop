@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Workshop 整体介绍",
-        "href": "/atlas-workshop/docs/intro",
+        "href": "/atlas-workshop/en/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,17 +24,17 @@
           {
             "type": "link",
             "label": "1. 开始使用 MongoDB Atlas",
-            "href": "/atlas-workshop/docs/setting-up-atlas/get-started-atlas",
+            "href": "/atlas-workshop/en/docs/setting-up-atlas/get-started-atlas",
             "docId": "setting-up-atlas/get-started-atlas"
           },
           {
             "type": "link",
             "label": "2. 加载样例数据到 MyCluster",
-            "href": "/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets",
+            "href": "/atlas-workshop/en/docs/setting-up-atlas/create-your-first-datasets",
             "docId": "setting-up-atlas/create-your-first-datasets"
           }
         ],
-        "href": "/atlas-workshop/docs/category/练习a-开始使用atlas"
+        "href": "/atlas-workshop/en/docs/category/练习a-开始使用atlas"
       },
       {
         "type": "category",
@@ -45,11 +45,11 @@
           {
             "type": "link",
             "label": "1. 访问您的集群",
-            "href": "/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster",
+            "href": "/atlas-workshop/en/docs/access-your-cluster/access-the-atlas-cluster",
             "docId": "access-your-cluster/access-the-atlas-cluster"
           }
         ],
-        "href": "/atlas-workshop/docs/category/练习b-访问您的atlas集群"
+        "href": "/atlas-workshop/en/docs/category/练习b-访问您的atlas集群"
       },
       {
         "type": "category",
@@ -60,17 +60,17 @@
           {
             "type": "link",
             "label": "1. 索引的执行计划",
-            "href": "/atlas-workshop/docs/indexing-basics/explain-plans",
+            "href": "/atlas-workshop/en/docs/indexing-basics/explain-plans",
             "docId": "indexing-basics/explain-plans"
           },
           {
             "type": "link",
             "label": "2. 索引基础知识",
-            "href": "/atlas-workshop/docs/indexing-basics/",
+            "href": "/atlas-workshop/en/docs/indexing-basics/",
             "docId": "indexing-basics/indexing-basics"
           }
         ],
-        "href": "/atlas-workshop/docs/category/练习c-索引与执行计划"
+        "href": "/atlas-workshop/en/docs/category/练习c-索引与执行计划"
       }
     ]
   },
@@ -96,7 +96,7 @@
     "intro": {
       "id": "intro",
       "title": "Workshop 整体介绍",
-      "description": "欢迎参加 Atlas Workshop for AWS DevAx Day.",
+      "description": "欢迎参加 Atlas Workshop for GCP Developer Day.",
       "sidebar": "tutorialSidebar"
     },
     "setting-up-atlas/create-your-first-datasets": {

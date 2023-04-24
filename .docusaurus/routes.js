@@ -3,108 +3,73 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/atlas-workshop/__docusaurus/debug',
-    component: ComponentCreator('/atlas-workshop/__docusaurus/debug', '765'),
+    path: '/atlas-workshop/en/markdown-page',
+    component: ComponentCreator('/atlas-workshop/en/markdown-page', '0e5'),
     exact: true
   },
   {
-    path: '/atlas-workshop/__docusaurus/debug/config',
-    component: ComponentCreator('/atlas-workshop/__docusaurus/debug/config', '5c7'),
-    exact: true
-  },
-  {
-    path: '/atlas-workshop/__docusaurus/debug/content',
-    component: ComponentCreator('/atlas-workshop/__docusaurus/debug/content', '461'),
-    exact: true
-  },
-  {
-    path: '/atlas-workshop/__docusaurus/debug/globalData',
-    component: ComponentCreator('/atlas-workshop/__docusaurus/debug/globalData', 'cd5'),
-    exact: true
-  },
-  {
-    path: '/atlas-workshop/__docusaurus/debug/metadata',
-    component: ComponentCreator('/atlas-workshop/__docusaurus/debug/metadata', '300'),
-    exact: true
-  },
-  {
-    path: '/atlas-workshop/__docusaurus/debug/registry',
-    component: ComponentCreator('/atlas-workshop/__docusaurus/debug/registry', '2f9'),
-    exact: true
-  },
-  {
-    path: '/atlas-workshop/__docusaurus/debug/routes',
-    component: ComponentCreator('/atlas-workshop/__docusaurus/debug/routes', '6ce'),
-    exact: true
-  },
-  {
-    path: '/atlas-workshop/markdown-page',
-    component: ComponentCreator('/atlas-workshop/markdown-page', 'ab8'),
-    exact: true
-  },
-  {
-    path: '/atlas-workshop/docs',
-    component: ComponentCreator('/atlas-workshop/docs', '031'),
+    path: '/atlas-workshop/en/docs',
+    component: ComponentCreator('/atlas-workshop/en/docs', '464'),
     routes: [
       {
-        path: '/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster',
-        component: ComponentCreator('/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster', '2dc'),
+        path: '/atlas-workshop/en/docs/access-your-cluster/access-the-atlas-cluster',
+        component: ComponentCreator('/atlas-workshop/en/docs/access-your-cluster/access-the-atlas-cluster', 'b89'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/atlas-workshop/docs/category/练习a-开始使用atlas',
-        component: ComponentCreator('/atlas-workshop/docs/category/练习a-开始使用atlas', 'cef'),
+        path: '/atlas-workshop/en/docs/category/练习a-开始使用atlas',
+        component: ComponentCreator('/atlas-workshop/en/docs/category/练习a-开始使用atlas', 'dde'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/atlas-workshop/docs/category/练习b-访问您的atlas集群',
-        component: ComponentCreator('/atlas-workshop/docs/category/练习b-访问您的atlas集群', '9cc'),
+        path: '/atlas-workshop/en/docs/category/练习b-访问您的atlas集群',
+        component: ComponentCreator('/atlas-workshop/en/docs/category/练习b-访问您的atlas集群', '851'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/atlas-workshop/docs/category/练习c-索引与执行计划',
-        component: ComponentCreator('/atlas-workshop/docs/category/练习c-索引与执行计划', 'bc8'),
+        path: '/atlas-workshop/en/docs/category/练习c-索引与执行计划',
+        component: ComponentCreator('/atlas-workshop/en/docs/category/练习c-索引与执行计划', '323'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/atlas-workshop/docs/indexing-basics/',
-        component: ComponentCreator('/atlas-workshop/docs/indexing-basics/', '071'),
+        path: '/atlas-workshop/en/docs/indexing-basics/',
+        component: ComponentCreator('/atlas-workshop/en/docs/indexing-basics/', '6d2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/atlas-workshop/docs/indexing-basics/explain-plans',
-        component: ComponentCreator('/atlas-workshop/docs/indexing-basics/explain-plans', 'a48'),
+        path: '/atlas-workshop/en/docs/indexing-basics/explain-plans',
+        component: ComponentCreator('/atlas-workshop/en/docs/indexing-basics/explain-plans', '89a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/atlas-workshop/docs/intro',
-        component: ComponentCreator('/atlas-workshop/docs/intro', 'b1f'),
+        path: '/atlas-workshop/en/docs/intro',
+        component: ComponentCreator('/atlas-workshop/en/docs/intro', '85e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets',
-        component: ComponentCreator('/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets', '27a'),
+        path: '/atlas-workshop/en/docs/setting-up-atlas/create-your-first-datasets',
+        component: ComponentCreator('/atlas-workshop/en/docs/setting-up-atlas/create-your-first-datasets', '05b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/atlas-workshop/docs/setting-up-atlas/get-started-atlas',
-        component: ComponentCreator('/atlas-workshop/docs/setting-up-atlas/get-started-atlas', '547'),
+        path: '/atlas-workshop/en/docs/setting-up-atlas/get-started-atlas',
+        component: ComponentCreator('/atlas-workshop/en/docs/setting-up-atlas/get-started-atlas', 'a25'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/atlas-workshop/',
-    component: ComponentCreator('/atlas-workshop/', 'f20'),
+    path: '/atlas-workshop/en/',
+    component: ComponentCreator('/atlas-workshop/en/', 'f3a'),
     exact: true
   },
   {

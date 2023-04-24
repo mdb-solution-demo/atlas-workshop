@@ -6,7 +6,7 @@
   "source": "@site/docs/indexing-basics/explain-plans.md",
   "sourceDirName": "indexing-basics",
   "slug": "/indexing-basics/explain-plans",
-  "permalink": "/atlas-workshop/docs/indexing-basics/explain-plans",
+  "permalink": "/atlas-workshop/en/docs/indexing-basics/explain-plans",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/indexing-basics/explain-plans.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "练习C: 索引与执行计划",
-    "permalink": "/atlas-workshop/docs/category/练习c-索引与执行计划"
+    "permalink": "/atlas-workshop/en/docs/category/练习c-索引与执行计划"
   },
   "next": {
     "title": "2. 索引基础知识",
-    "permalink": "/atlas-workshop/docs/indexing-basics/"
+    "permalink": "/atlas-workshop/en/docs/indexing-basics/"
   }
 }

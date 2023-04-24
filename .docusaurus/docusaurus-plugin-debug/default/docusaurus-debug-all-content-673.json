@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/zh-Hans/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/binzhou/code/workshops/atlas-workshop-devax/sidebars.js",
-          "contentPath": "/Users/binzhou/code/workshops/atlas-workshop-devax/docs",
-          "contentPathLocalized": "/Users/binzhou/code/workshops/atlas-workshop-devax/i18n/zh-Hans/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/binzhou/code/workshops/atlas-workshop/sidebars.js",
+          "contentPath": "/Users/binzhou/code/workshops/atlas-workshop/docs",
+          "contentPathLocalized": "/Users/binzhou/code/workshops/atlas-workshop/i18n/zh-Hans/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "access-your-cluster/access-the-atlas-cluster",
@@ -100,7 +100,7 @@
               "unversionedId": "intro",
               "id": "intro",
               "title": "Workshop 整体介绍",
-              "description": "欢迎参加 Atlas Workshop for AWS DevAx Day.",
+              "description": "欢迎参加 Atlas Workshop for GCP Developer Day.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",

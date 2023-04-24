@@ -5,14 +5,14 @@
  */
 export default {
   "title": "Atlas Workshop",
-  "tagline": "MongoDB Atlas Workshop for AWS DevAx Day",
+  "tagline": "MongoDB Atlas Workshop for GCP Developer Day",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/atlas-workshop/",
+  "baseUrl": "/atlas-workshop/en/",
   "plugins": [
-    "/Users/binzhou/code/workshops/atlas-workshop-devax/node_modules/docusaurus-lunr-search/src/index.js"
+    "/Users/binzhou/code/workshops/atlas-workshop/node_modules/docusaurus-lunr-search/src/index.js"
   ],
-  "organizationName": "aws-devax-development",
+  "organizationName": "mdb-solution-demo",
   "projectName": "atlas-workshop",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -20,8 +20,7 @@ export default {
     "defaultLocale": "zh-Hans",
     "locales": [
       "en",
-      "zh-Hans",
-      "fa"
+      "zh-Hans"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -31,11 +30,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/binzhou/code/workshops/atlas-workshop-devax/sidebars.js",
+          "sidebarPath": "/Users/binzhou/code/workshops/atlas-workshop/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/binzhou/code/workshops/atlas-workshop-devax/src/css/custom.css"
+          "customCss": "/Users/binzhou/code/workshops/atlas-workshop/src/css/custom.css"
         }
       }
     ]

@@ -1,102 +1,59 @@
 {
-  "/atlas-workshop/__docusaurus/debug-765": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/atlas-workshop/en/markdown-page-0e5": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---atlas-workshop-docusaurus-debug-632-f7f"
-    }
-  },
-  "/atlas-workshop/__docusaurus/debug/config-5c7": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---atlas-workshop-docusaurus-debug-632-f7f"
-    }
-  },
-  "/atlas-workshop/__docusaurus/debug/content-461": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---atlas-workshop-docusaurus-debug-632-f7f"
+      "plugin": "d7ccc651"
     },
-    "allContent": "allContent---atlas-workshop-docusaurus-debug-content-246-c65"
+    "content": "393be207"
   },
-  "/atlas-workshop/__docusaurus/debug/globalData-cd5": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/atlas-workshop/en/docs-464": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---atlas-workshop-docusaurus-debug-632-f7f"
-    }
-  },
-  "/atlas-workshop/__docusaurus/debug/metadata-300": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---atlas-workshop-docusaurus-debug-632-f7f"
-    }
-  },
-  "/atlas-workshop/__docusaurus/debug/registry-2f9": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---atlas-workshop-docusaurus-debug-632-f7f"
-    }
-  },
-  "/atlas-workshop/__docusaurus/debug/routes-6ce": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---atlas-workshop-docusaurus-debug-632-f7f"
-    }
-  },
-  "/atlas-workshop/markdown-page-ab8": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---atlas-workshop-markdown-page-7-be-d58"
+      "plugin": "17679854"
     },
-    "content": "content---atlas-workshop-markdown-page-393-53a"
+    "versionMetadata": "935f2afb"
   },
-  "/atlas-workshop/docs-031": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/atlas-workshop/en/docs/access-your-cluster/access-the-atlas-cluster-b89": {
+    "__comp": "17896441",
+    "content": "4b36de3e"
+  },
+  "/atlas-workshop/en/docs/category/练习a-开始使用atlas-dde": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ebda4fc3"
+  },
+  "/atlas-workshop/en/docs/category/练习b-访问您的atlas集群-851": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "adb47f1b"
+  },
+  "/atlas-workshop/en/docs/category/练习c-索引与执行计划-323": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "641b582c"
+  },
+  "/atlas-workshop/en/docs/indexing-basics/-6d2": {
+    "__comp": "17896441",
+    "content": "3082f756"
+  },
+  "/atlas-workshop/en/docs/indexing-basics/explain-plans-89a": {
+    "__comp": "17896441",
+    "content": "2735ef22"
+  },
+  "/atlas-workshop/en/docs/intro-85e": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/atlas-workshop/en/docs/setting-up-atlas/create-your-first-datasets-05b": {
+    "__comp": "17896441",
+    "content": "928cdd22"
+  },
+  "/atlas-workshop/en/docs/setting-up-atlas/get-started-atlas-a25": {
+    "__comp": "17896441",
+    "content": "ec702251"
+  },
+  "/atlas-workshop/en/-f3a": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---atlas-workshop-docs-913-68a"
+      "plugin": "d7ccc651"
     },
-    "versionMetadata": "versionMetadata---atlas-workshop-docs-935-b76"
-  },
-  "/atlas-workshop/docs/access-your-cluster/access-the-atlas-cluster-2dc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---atlas-workshop-docs-access-your-cluster-access-the-atlas-cluster-4-b-3-d34"
-  },
-  "/atlas-workshop/docs/category/练习a-开始使用atlas-cef": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---atlas-workshop-docs-category-练习a-开始使用atlas-1-c-8-e98"
-  },
-  "/atlas-workshop/docs/category/练习b-访问您的atlas集群-9cc": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---atlas-workshop-docs-category-练习b-访问您的atlas集群-1-cf-a49"
-  },
-  "/atlas-workshop/docs/category/练习c-索引与执行计划-bc8": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---atlas-workshop-docs-category-练习c-索引与执行计划-372-6d5"
-  },
-  "/atlas-workshop/docs/indexing-basics/-071": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---atlas-workshop-docs-indexing-basics-308-6cc"
-  },
-  "/atlas-workshop/docs/indexing-basics/explain-plans-a48": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---atlas-workshop-docs-indexing-basics-explain-plans-273-328"
-  },
-  "/atlas-workshop/docs/intro-b1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---atlas-workshop-docs-intro-0-e-3-13d"
-  },
-  "/atlas-workshop/docs/setting-up-atlas/create-your-first-datasets-27a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---atlas-workshop-docs-setting-up-atlas-create-your-first-datasets-928-8b0"
-  },
-  "/atlas-workshop/docs/setting-up-atlas/get-started-atlas-547": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---atlas-workshop-docs-setting-up-atlas-get-started-atlasec-7-b21"
-  },
-  "/atlas-workshop/-f20": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
-    "__context": {
-      "plugin": "plugin---atlas-workshop-markdown-page-7-be-d58"
-    },
-    "config": "config---atlas-workshop-5-e-9-982"
+    "config": "5e9f5e1a"
   }
 }

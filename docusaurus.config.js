@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Atlas Workshop',
-  tagline: 'MongoDB Atlas Workshop for AWS DevAx Day',
+  tagline: 'MongoDB Atlas Workshop for GCP Developer Day',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -19,7 +19,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'aws-devax-development', // Usually your GitHub org/user name.
+  organizationName: 'mdb-solution-demo', // Usually your GitHub org/user name.
   projectName: 'atlas-workshop', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['en', 'zh-Hans', 'fa'],
+    locales: ['en', 'zh-Hans'],
   },
 
   presets: [

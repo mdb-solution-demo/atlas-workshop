@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Workshop 整体介绍
 
-## 欢迎参加 **Atlas Workshop for AWS DevAx Day**.
+## 欢迎参加 **Atlas Workshop for GCP Developer Day**.
 
 ## 开始
 
