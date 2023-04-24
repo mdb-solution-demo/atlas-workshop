@@ -71,11 +71,11 @@ const config = {
             label: 'Tutorial',
           },
           
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -83,7 +83,7 @@ const config = {
         links: [
          
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} MongoDB Demo Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

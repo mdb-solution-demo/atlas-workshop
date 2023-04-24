@@ -53,11 +53,6 @@ export default {
           "docId": "intro",
           "position": "left",
           "label": "Tutorial"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -65,7 +60,7 @@ export default {
     "footer": {
       "style": "dark",
       "links": [],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 MongoDB Demo Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

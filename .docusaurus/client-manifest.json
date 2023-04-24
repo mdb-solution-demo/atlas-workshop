@@ -145,9 +145,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.a653213c.js",
-          "hash": "1081e51ddb38cbcf",
-          "publicPath": "/atlas-workshop/en/assets/js/main.a653213c.js"
+          "file": "assets/js/main.7212882b.js",
+          "hash": "2ea082f729491d8c",
+          "publicPath": "/atlas-workshop/en/assets/js/main.7212882b.js"
         }
       ]
     },
@@ -172,9 +172,9 @@
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.a3eb639e.js",
-          "hash": "7335bf4de4de31b3",
-          "publicPath": "/atlas-workshop/en/assets/js/runtime~main.a3eb639e.js"
+          "file": "assets/js/runtime~main.58d5ddab.js",
+          "hash": "74ecb73abb22182f",
+          "publicPath": "/atlas-workshop/en/assets/js/runtime~main.58d5ddab.js"
         }
       ]
     },
@@ -235,9 +235,9 @@
     "665": {
       "js": [
         {
-          "file": "assets/js/ec702251.0e83caa9.js",
-          "hash": "90f5dded138d4f82",
-          "publicPath": "/atlas-workshop/en/assets/js/ec702251.0e83caa9.js"
+          "file": "assets/js/ec702251.a2247091.js",
+          "hash": "11235f057610c319",
+          "publicPath": "/atlas-workshop/en/assets/js/ec702251.a2247091.js"
         }
       ]
     },
